@@ -4,6 +4,6 @@
 
 @layer components {
   .nav-style {
-    @apply font-poppins font-medium text-xs text-gray-700 hover:text-orange-600;
+    @apply font-poppins font-medium text-xs text-gray-700 hover:text-orange-600 text-nowrap;
   }
 }
